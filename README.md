@@ -2,6 +2,7 @@ this is a handmade copy of tetres in pygame
 
 installing pygame:
 pip install pygame
+
 running:
 python tetres.py
 

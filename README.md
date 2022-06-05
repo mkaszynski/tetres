@@ -7,8 +7,7 @@ running:
 python tetres.py
 
 playing:
-rotate:
-press e
+e - rotate
 move:
 a - left
 d - right
